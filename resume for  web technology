@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+     
+     <head>
+        <title>RESUME</title>
+     </head>
+     
+     <body>
+        
+       <!--PART_1-->
+       <fieldset>       
+       <center><img src="photo.jpg" alt="Passport photo" width=180 height=200>
+       <font color="darkblue"><h2>GOLI UJWAL </h2></font>
+       <p><i><strong><font color="darkblue">An Enthusiastic Student🧑🏻‍🎓, Ambitious enough to learn and work.</font></strong></i></p>  
+       <font color="darkblue"><p><strong><i>🌏Vijayawada, Andhra Pradesh, India.</strong></i></p></font>   
+       <a href="https://github.com/ujwalgoli" target="_blank">GITHUB</a> 😸<br>
+       <a href="https://www.codechef.com/users/ujwalgoli" target="_blank">CodeChef</a> 👨🏼‍🍳<br>
+       <a href="https://www.hackerrank.com/profile/ujwal_goli" target="_blank">HackerRank</a> 𝓗</center>
+       </fieldset><br>    
+       
+       <!--PART_2-->
+       <fieldset>        
+       <table border=2>
+          <h3><ins><i>EDUCATION</i></ins></h3>
+          <tr>
+            <th>COURSE</th>
+            <th>School/College</th>
+            <th>Year</th>
+          </tr>
+          <tr>
+            <td>10<sup>th</sup> Grade</td>
+            <td>Aravinda Model School </td>
+            <td>2019-2020</td>
+          </tr>
+          <tr>
+            <td>12<sup>th</sup> Grade</td>
+            <td>Sarada institutions </td>
+            <td>2020-2022</td>
+          </tr>
+       </table>
+       
+       <h3><ins><i>SKILLS</i></ins></h3>
+       <ul>     
+       <li>C</li>
+       <li>C++</li>
+       <li>HTML</li>
+       <li>CSS</li>
+       <li>JavaScript</li>
+       <li>Python</li>
+       </ul>  
+
+       <h3><ins><i>CERTIFICATIONS</i></ins></h3>
+       <ol>
+       <li>Certificate in Educational Leadership (Issued by NPTEL)</li>
+       <li>Certificate in Joy of Computing using Python (Issued by NPTEL)</li>
+       <li>Certificate in C Programming (Issued by Vision Computers)</li>
+       </ol>
+      
+       <h3><ins><i>PROJECTS</i></ins></h3>
+       <ol>
+       <li>Library Management System</li>
+       <li>Login and Registration System</li>
+       </ol>
+
+       <h3><ins><i>LANGUAGES</i></ins></h3>
+       <ul>     
+       <li>Telugu</li>
+       <li>English</li>
+       </ul> 
+        
+       <h3><ins><i>INTERESTS</i></ins></h3>
+       <ul>
+       <li>Outdoor Games</li>
+       <li>Problem Solving</li>
+       <li>Listening to Music</li>
+       <li>Exercising</li>
+       </ul>
+       </fieldset><br>
+       
+       <!--PART_3-->
+       <fieldset>
+       <h3><ins><i>CONTACT</i></ins></h3>
+       ☎️8096327746<br>
+       📧ujwal_goli@srmap.edu.in
+       </fieldset>
+
+       </body>
+
+</html>
